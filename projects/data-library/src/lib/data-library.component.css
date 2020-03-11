@@ -1,0 +1,27 @@
+* {
+  background-color: antiquewhite;
+}
+
+table {
+  margin: auto;
+}
+
+th.mat-sort-header-sorted {
+  color: black;
+  width: auto;
+}
+
+th.title-header {
+  width: 10%;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+th {
+  width: 30%;
+  padding: 0 24px !important;
+}
+
+td {
+  padding: 0 24px !important;
+}
